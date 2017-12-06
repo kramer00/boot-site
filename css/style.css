@@ -79,15 +79,15 @@ ul.unstyled {
 }
 
 #slide1 {
-    background: url('../../images/img_one_med.jpg') top center no-repeat;
+    background: url('../../images/lifestyle/img_one_med.jpg') top center no-repeat;
 }
 
 #slide2 {
-    background: url('../../images/img_two_med.jpg') top center no-repeat;
+    background: url('../../images/lifestyle/img_two_med.jpg') top center no-repeat;
 }
 
 #slide3 {
-    background: url('../../images/img_three_med.jpg') top center no-repeat;
+    background: url('../../images/lifestyle/img_three_med.jpg') top center no-repeat;
 }
 
 
@@ -167,15 +167,15 @@ ul.unstyled {
     }
 
     #slide1 {
-        background: url('../../images/img_one_sm.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_one_sm.jpg') top center no-repeat;
     }
 
     #slide2 {
-        background: url('../../images/img_two_sm.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_two_sm.jpg') top center no-repeat;
     }
 
     #slide3 {
-        background: url('../../images/img_three_sm.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_three_sm.jpg') top center no-repeat;
     }
 
     .carousel-caption {
@@ -197,15 +197,15 @@ ul.unstyled {
     }
 
     #slide1 {
-        background: url('../../images/img_one_large.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_one_large.jpg') top center no-repeat;
     }
 
     #slide2 {
-        background: url('../../images/img_two_lg.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_two_lg.jpg') top center no-repeat;
     }
 
     #slide3 {
-        background: url('../../images/img_three_lg.jpg') top center no-repeat;
+        background: url('../../images/lifestyle/img_three_lg.jpg') top center no-repeat;
     }
 
 }
