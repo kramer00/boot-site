@@ -8,6 +8,8 @@
 
 #features img {
     margin: 0 0 20px;
+    width: 70px;
+    height: 100px;
 }
 
 #inputMessage {
@@ -90,6 +92,9 @@ ul.unstyled {
     background: url('../../images/lifestyle/img_three_med.jpg') top center no-repeat;
 }
 
+/* --------------------------------------
+   Features Styles
+   -------------------------------------- */
 
 /* --------------------------------------
    Global Styles
